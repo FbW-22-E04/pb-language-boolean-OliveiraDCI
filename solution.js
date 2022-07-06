@@ -2,13 +2,17 @@
 console.log(3 == "3");
 console.log(3 === "3");
 console.log(
-  `1. To compare VALUE, we can use options 2 and 3, where the equality operatos == or ===`
+  `1. To compare VALUE we can use options 2 and 3, where the equality operatos == or ===`,
+  2,
+  3
 );
 console.log(
-  `1.7 - 7 is correct, we must use the strict equality operator to compare both value and type.`
+  `1.7 - 7 is correct, we must use the strict equality operator to compare both value and type.`,
+  7
 );
 console.log(
-  `1.9 - 9 is correct, the = operator is used to assign a value to a variable.`
+  `1.9 - 9 is correct, the = operator is used to assign a value to a variable.`,
+  9
 );
 
 // 2
